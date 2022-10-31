@@ -125,3 +125,13 @@ select{
     background: white;
     color:#ff6f47
 }
+@media only screen and (max-width: 711px ) {
+ input{
+    max-width: 50%;
+
+ };
+ select{
+    max-width: 50%;
+ }
+  
+  }
